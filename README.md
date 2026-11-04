@@ -247,4 +247,4 @@ This repository serves as the official landing page for Kinovea. The software is
 **Get the most recent version of Kinovea today!**
 
 ---
-**Last updated:** 2026-11-04 04:07:52 UTC
+**Last updated:** 2026-11-04 12:41:51 UTC
